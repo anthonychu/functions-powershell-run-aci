@@ -1,0 +1,10 @@
+{
+  "bindings": [
+    {
+      "name": "JobId",
+      "type": "queueTrigger",
+      "direction": "in",
+      "queueName": "%JobQueueName%"
+    }
+  ]
+}
