@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "powershell",
+    "AzureWebJobsStorage": "",
+    "PSWorkerInProcConcurrencyUpperBound": 8,
+    "JobQueueName": "aci-jobs",
+    "ResourceGroupName": "powershell-func-aci"
+  }
+}
